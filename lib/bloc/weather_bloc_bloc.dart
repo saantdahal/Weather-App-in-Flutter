@@ -3,7 +3,6 @@ import 'package:geolocator/geolocator.dart';
 import 'package:meta/meta.dart';
 import 'package:weather/weather.dart';
 import 'package:weatherapp/data/my_data.dart';
-
 part 'weather_bloc_event.dart';
 part 'weather_bloc_state.dart';
 
